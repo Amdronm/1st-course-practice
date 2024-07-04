@@ -1,2 +1,3 @@
 /Iterator/build
 *.json
+/Qt4-json/build
